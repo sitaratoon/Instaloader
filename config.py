@@ -8,7 +8,7 @@ API_HASH = os.getenv("API_HASH", "c163d4e28e63196c3806cf3b9b2885de")
 BOT_TOKEN = os.getenv("BOT_TOKEN", "8078421939:AAG2mnW7AnMnhHOUUwTOpNBKiOPw4JoySok")
 ADMIN = int(os.getenv("ADMIN", "6692613520"))
 
-DUMP_CHANNEL = int(os.getenv("DUMP_CHANNEL", "-1002320080278")) #Channel Id
+DUMP_CHANNEL = int(os.getenv("DUMP_CHANNEL", "-1002451946366")) #Channel Id
 LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1002320080278"))
 
 DB_URI = os.getenv("DB_URI", "mongodb+srv://Renamest:Renamest@cluster0.prfhc.mongodb.net/?retryWrites=true&w=majority")
