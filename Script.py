@@ -8,7 +8,7 @@ I ᴀᴍ ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ Iɴsᴛᴀɢʀᴀᴍ ᴘᴏsᴛ ᴀɴᴅ 
 
 Fᴏʀ ᴍᴏʀᴇ ɪɴғᴏ, ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴘ ✅
 
-<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Sitaratoons_Support_bot'>ᴀᴄxᴀɴɪᴍᴇ</a></blockquote>></b>"""
+<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Sitaratoons_Support_bot'>ᴀᴄxᴀɴɪᴍᴇ</a></blockquote></b>"""
   
   FORCE_SUBSCRIBE_TEXT = """<b>{}, Tᴏ ᴜsᴇ ᴛʜᴇ ʙᴏᴛ ʏᴏᴜ ᴍᴜsᴛ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ғɪʀsᴛ. Tʜᴇ ʙᴏᴛ ᴡɪʟʟ ɴᴏᴛ ᴘʀᴏᴄᴇss ᴀɴʏ ʀᴇǫᴜᴇsᴛs ᴡɪᴛʜᴏᴜᴛ ᴊᴏɪɴɪɴɢ.
 
