@@ -21,14 +21,13 @@ Lɪʙʀᴀʀʏ: Pʏʀᴏɢʀᴀᴍ 📚
 Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 🐍
 Sᴇʀᴠᴇʀ: Rᴇɴᴅᴇʀ 🌐
 Bᴜɪʟᴅ Sᴛᴀᴛᴜs: V1.3 🚀
-Sᴏᴜʀᴄᴇ Cᴏᴅᴇ: Aᴠᴀɪʟᴀʙʟᴇ (Fʀᴇᴇ) 💻 
 
-<blockquote>𝖬𝖺𝖽𝖾 𝖡𝗒 @Dypixx</blockquote></b>"""
+<blockquote> Iғ ᴀɴʏ ɪssᴜᴇs ᴄᴏᴍᴇ ᴜᴘ, ᴄᴏɴᴛᴀᴄᴛ : <a href='https://telegram.me/Sitaratoons_Support_bot'>ᴀᴄxᴀɴɪᴍᴇ</a></blockquote></b>"""
   
   HELP_TXT = """<b>Tᴏ ᴜsᴇ ᴛʜɪs ʙᴏᴛ, ʏᴏᴜ ɴᴇᴇᴅ ᴀ ʀᴇᴇʟ ᴏʀ ᴘᴏsᴛ ʟɪɴᴋ.
   
 Jᴜsᴛ sᴇɴᴅ ᴛʜᴇ ʀᴇᴇʟ ᴏʀ ᴘᴏsᴛ ʟɪɴᴋ, ᴀɴᴅ ᴛʜᴇ ʙᴏᴛ ᴡɪʟʟ ᴘʀᴏᴄᴇss ɪᴛ, ᴅᴏᴡɴʟᴏᴀᴅ ɪᴛ ᴛᴏ ᴛʜᴇ sᴇʀᴠᴇʀ, ᴀɴᴅ ᴛʜᴇɴ sᴇɴᴅ ɪᴛ ᴛᴏ ʏᴏᴜ ᴅɪʀᴇᴄᴛʟʏ.
 
-Aғᴛᴇʀ ᴛʜᴀᴛ ᴘʀᴏᴄᴇss, ᴛʜᴇ ʙᴏᴛ ᴡɪʟʟ ɢɪᴠᴇ ʏᴏᴜ ᴀ ғʟᴏᴏᴅ ᴡᴀʀɴɪɴɢ. Yᴏᴜ sʜᴏᴜʟᴅ ᴡᴀɪᴛ ғᴏʀ 5 ᴍɪɴᴜᴛᴇs; ᴀғᴛᴇʀ 5 ᴍɪɴᴜᴛᴇs, ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴛʜɪs ʙᴏᴛ ᴀɢᴀɪɴ. 
+Aғᴛᴇʀ ᴛʜᴀᴛ ᴘʀᴏᴄᴇss, ᴛʜᴇ ʙᴏᴛ ᴡɪʟʟ ɢɪᴠᴇ ʏᴏᴜ ᴀ ғʟᴏᴏᴅ ᴡᴀʀɴɪɴɢ. Yᴏᴜ sʜᴏᴜʟᴅ ᴡᴀɪᴛ ғᴏʀ 15 Second; ᴀғᴛᴇʀ 15 Second, ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴛʜɪs ʙᴏᴛ ᴀɢᴀɪɴ. 
 
-<blockquote>Iғ ᴀɴʏ ɪssᴜᴇs ᴄᴏᴍᴇ ᴜᴘ, ᴄᴏɴᴛᴀᴄᴛ @Dypixx</blockquote></b>"""
+<blockquote> Iғ ᴀɴʏ ɪssᴜᴇs ᴄᴏᴍᴇ ᴜᴘ, ᴄᴏɴᴛᴀᴄᴛ : <a href='https://telegram.me/Sitaratoons_Support_bot'>ᴀᴄxᴀɴɪᴍᴇ</a></blockquote></b>"""
